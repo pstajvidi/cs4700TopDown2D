@@ -17,3 +17,4 @@ The main focus of the game is a lost knight, who has to find his way back to the
 Some of the challenges that I faced were mainly due to the video I began with. Since the playlist ends abruptly, for the inventory system and the remaining aspects I had to look for other videos and implement them as best as I could, to fit with what I already had. I would have liked to work more on the story, and buttons. Overall I would have preferred to have more functionality for the game as well as to have made more interesting, such as adding in a timer. 
 
 ## Video
+is in the video folder
